@@ -49,15 +49,15 @@ people:
 
 - name: El Gajo
   pic: greg
-  postion: CAO
+  position: CAO
 
 - name: Jasonyo
   pic:  jason
-  postion: CTFO
+  position: CTFO
 
 - name: Mike-arita
   pic:  mike
-  postion: Adventure Capitalist
+  position: Adventure Capitalist
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
