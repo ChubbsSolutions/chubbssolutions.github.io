@@ -16,7 +16,7 @@ color:
 people:
 - name: Nate-0
   pic: nate
-  position: CEO
+  position: Not The CEO
 #  social:
    # - title: twitter
    #   url: #
@@ -27,7 +27,7 @@ people:
 
 - name: Damon-0
   pic: damon
-  position: Talent 
+  position: Offically Chubbs 
 #  social:
 #    - title: twitter
 #      url: #
@@ -36,16 +36,20 @@ people:
 #    - title: linkedin
 #      url: #
 
-- name: Mike-arita
-  pic: mike
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+- name: El Bob-O
+  pic: ismael
+  position: CFO 
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#   - title: google-plus
+#     url: #
+
+- name: El Gajo
+  pic: greg
+  postion: CAO
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -58,7 +62,7 @@ social:
 ##  - title: bitbucket 
  ##   url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/chubbsolutions
+    url: http://github.com/chubbssolutions
 
 # Postal address (add as many lines as necessary)
 address:
